@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .video-container {
+    margin: auto;
+    margin-top: 50px;;
+  }
+  
+  .brand-logo{
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    padding: 50px;
+  }
+  
+  .current-selections{
+    margin-top: 2em;
+    margin-bottom: 5em;
+  }
+  .current-selections ul {
+    list-style: none;
+    margin: auto;
+  }
+  
